@@ -1,1 +1,1 @@
-# My_First_Facial_Recognition_Project
+# My first project utilises the libraries 'PIL' and 'image_recognition' to identify faces in an image and identify facial features.
